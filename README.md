@@ -1,1 +1,3 @@
-# Git-GithubGerman Eduardo Gamez Gamez
+# Git-Github
+
+German Eduardo Gamez Gamez
